@@ -76,13 +76,12 @@ Repo: [github.com/ManojT0108/flight-pipeline](https://github.com/ManojT0108/flig
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManojT0108&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ManojT0108&theme=tokyonight&hide_border=true" />
 </p>
 
 
 ### Connect
 
 - GitHub: [github.com/ManojT0108](https://github.com/ManojT0108)
-- LinkedIn: [[Add LinkedIn URL](https://www.linkedin.com/in/mt0108/)]
+- LinkedIn: [(https://www.linkedin.com/in/mt0108/)]
 - Portfolio:
 - Email: mt5219@rit.edu
