@@ -86,6 +86,6 @@ Repo: [github.com/ManojT0108/flight-pipeline](https://github.com/ManojT0108/flig
 ### Connect
 
 - GitHub: [github.com/ManojT0108](https://github.com/ManojT0108)
-- LinkedIn: [Add LinkedIn URL]
-- Portfolio: [Add Portfolio URL]
+- LinkedIn: [[Add LinkedIn URL](https://www.linkedin.com/in/mt0108/)]
+- Portfolio:
 - Email: mt5219@rit.edu
