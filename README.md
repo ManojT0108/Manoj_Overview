@@ -49,7 +49,6 @@ Repo: [github.com/ManojT0108/flight-pipeline](https://github.com/ManojT0108/flig
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Uvicorn-4051B5?style=flat-square" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
@@ -69,7 +68,6 @@ Repo: [github.com/ManojT0108/flight-pipeline](https://github.com/ManojT0108/flig
 <p>
   <img src="https://img.shields.io/badge/LangGraph-111111?style=flat-square" />
   <img src="https://img.shields.io/badge/LangChain-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
