@@ -3,16 +3,6 @@
   Backend Engineer • Data Engineer • Building scalable data products
 </p>
 
-<p align="center">
-  <a href="https://github.com/ManojT0108?tab=followers">
-    <img src="https://img.shields.io/github/followers/ManojT0108?label=Followers&style=for-the-badge" alt="followers" />
-  </a>
-  <a href="https://github.com/ManojT0108">
-    <img src="https://img.shields.io/github/stars/ManojT0108?affiliations=OWNER&style=for-the-badge" alt="stars" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ManojT0108&style=for-the-badge" alt="views" />
-</p>
-
 ---
 
 ### About Me
