@@ -79,9 +79,6 @@ Repo: [github.com/ManojT0108/flight-pipeline](https://github.com/ManojT0108/flig
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ManojT0108&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojT0108&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ### Connect
 
