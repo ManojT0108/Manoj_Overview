@@ -72,13 +72,6 @@ Repo: [github.com/ManojT0108/flight-pipeline](https://github.com/ManojT0108/flig
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
-### GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManojT0108&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-
 ### Connect
 
 - GitHub: [github.com/ManojT0108](https://github.com/ManojT0108)
