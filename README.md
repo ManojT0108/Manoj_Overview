@@ -7,7 +7,7 @@
 
 ### About Me
 
-- MS CS graduate (RIT, Dec 2024)
+- MS CS graduate (RIT, Dec 2025)
 - Focus: backend systems, data engineering, and AI-powered analytics
 - I like shipping full products: ingest -> model -> serve -> intelligent interface
 
