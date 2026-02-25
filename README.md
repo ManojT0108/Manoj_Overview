@@ -19,11 +19,7 @@
 
 -----
 
-I build systems that **ingest → model → serve → make intelligent**.
-
-Two years of experience shipping backend infrastructure, data pipelines, and AI-powered analytics — from proteomics research platforms processing 26M+ records to flight data systems handling 6.4M rows with real-time weather correlation.
-
-I care about the engineering decisions behind the code: when to use raw SQL vs an ORM, how to make pipelines idempotent, why your JOIN exploded to 174M rows, and how to give an LLM 9 tools instead of 22.
+Backend and data engineer with 2 years of experience building production systems — ETL pipelines, REST APIs, data warehouses, and AI-powered analytics. Recently completed my MS in Computer Science from RIT. Currently looking for backend and data engineering roles.
 
 -----
 
