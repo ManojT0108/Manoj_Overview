@@ -39,7 +39,7 @@ End-to-end data platform: raw CSVs to conversational AI in one system.
 |**API**     |22 FastAPI endpoints with Redis caching (700x speedup), JWT auth, connection pooling, rate limiting. Raw psycopg2 for complex analytical queries.|
 |**AI Agent**|LangGraph ReAct agent — ask questions in plain English, Claude picks tools, queries the DB, returns grounded answers. 9 tools, ~$0.01/query.     |
 
-`Airflow` `PostgreSQL` `MinIO` `FastAPI` `Redis` `LangGraph` `Claude` `Docker` `Pandera`
+`Airflow` `PostgreSQL` `MinIO` `FastAPI` `Redis` `LangGraph` `Docker` `Pandera`
 
 </td>
 </tr>
@@ -131,10 +131,6 @@ Hybrid retrieval system combining vector search with knowledge graph traversal o
 **Software Engineer** — Schulze Lab, Rochester Institute of Technology *(Dec 2024 – Jan 2026)*
 
 > Sole backend engineer for proteomics research platform serving scientists worldwide. Built Python ETL pipelines processing 26M+ records, designed GraphQL/REST APIs, implemented Redis caching (40% latency reduction), and deployed containerized microservices on AWS.
-
-**Backend Developer Intern** — DRDO, India *(Apr 2022 – Jun 2022)*
-
-> Node.js backend APIs with MongoDB for defense research tools. Query optimization that reduced response times by 50%.
 
 -----
 
