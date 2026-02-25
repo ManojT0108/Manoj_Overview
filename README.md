@@ -1,6 +1,6 @@
 <h1 align="center">Manoj Thipare Gowda</h1>
 <p align="center">
-  <strong>Backend Engineer · Data Engineer · Building scalable data products</strong>
+  <strong>Backend Engineer · Data Engineer · AI Engineer · Building scalable data products</strong>
 </p>
 <p align="center">
   MS Computer Science @ RIT · Chicago, IL
